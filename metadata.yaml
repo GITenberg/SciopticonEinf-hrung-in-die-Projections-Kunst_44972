@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '41142'
     url: http://www.gutenberg.org/2009/agents/41142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44972#SciopticonEinf-hrung-in-die-Projections-Kunst
 gutenberg_issued: '2014-02-20'
 gutenberg_type: Text
 identifiers:
